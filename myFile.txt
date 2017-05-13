@@ -10,3 +10,15 @@ rebase
 ==========
 
 again
+=======
+merge again
+=======
+--------------
+This is merge
+-------------
+666
+777
+
+-------------
+Do something after merge
+-------------
